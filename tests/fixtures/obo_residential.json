@@ -1,0 +1,892 @@
+{
+ "count": 92,
+ "items": [
+  {
+   "id": "Yd7bgxQJWwV9RhCJqCPPbk4b",
+   "localId": "11276249",
+   "number": "AN-21827",
+   "displayName": "Höglundagatan 44",
+   "description": "Nyrenoverat på Höglundagatan!\nVälkommen att titta i vår visningslägenhet på Höglundagatan 34. Varje onsdag klockan 14.00-14.30 är vi på plats.",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 9188.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Norrby"
+    },
+    "areaPath": [
+     {
+      "id": "FKVpQTpBBqWvbQgJgRdKGfbd",
+      "displayName": "Norr"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1793487600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 58.4
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 hall exempelbild",
+    "version": "f-2043795"
+   }
+  },
+  {
+   "id": "K8WKpjq9RJVKBFYjpcVcFwXJ",
+   "localId": "11280467",
+   "number": "AN-22175",
+   "displayName": "Höglundagatan 50",
+   "description": "Nyrenoverat på Höglundagatan!\nVälkommen att titta i vår visningslägenhet på Höglundagatan 34. Varje onsdag klockan 14.00-14.30 är vi på plats.",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 9012.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Norrby"
+    },
+    "areaPath": [
+     {
+      "id": "FKVpQTpBBqWvbQgJgRdKGfbd",
+      "displayName": "Norr"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1798758000000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 58.4
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 hall exempelbild",
+    "version": "f-2043795"
+   }
+  },
+  {
+   "id": "MbbTMTypfjtPvQyq84DXwPmw",
+   "localId": "11350170",
+   "number": "AN-24711",
+   "displayName": "Krönikegatan 1  B ",
+   "description": "Hyresrabatt i tre år för nya ÖBO-hyresgäster",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 11016.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Vivalla"
+    },
+    "areaPath": [
+     {
+      "id": "9p4Jdx6c7MhXkgPPmbWQYGXV",
+      "displayName": "Vivalla"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1803855600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "4 rum och kök",
+    "shortRoomsDisplayName": "4RK",
+    "area": 82.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 Krönike 1 hyresrabatt",
+    "version": "f-1742140"
+   }
+  },
+  {
+   "id": "x67DJ4JtBDKYKpwCmGmtWbxm",
+   "localId": "11350158",
+   "number": "AN-24708",
+   "displayName": "Lyrikgatan 19  B ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10891.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Vivalla"
+    },
+    "areaPath": [
+     {
+      "id": "9p4Jdx6c7MhXkgPPmbWQYGXV",
+      "displayName": "Vivalla"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "4 rum och kök",
+    "shortRoomsDisplayName": "4RK",
+    "area": 82.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "Lyrikgatan 19_01",
+    "version": "f-1559658"
+   }
+  },
+  {
+   "id": "k9jyYhbxYPjdX8FVQcBYpry9",
+   "localId": "11350153",
+   "number": "AN-24706",
+   "displayName": "Tengvallsgatan 42 ",
+   "description": "Korttidskontrakt \r\nBostaden hyrs ut på korttidskontrakt, på grund av en kommande ombyggnation av huset. Du behåller dina poäng, så att du kan söka en annan bostad under tiden. Du ansvarar själv för att hitta en ny bostad. Vi meddelar dig senast tre månader innan du måste flytta. På obo.se kan du söka fram de kompletta villkoren för korttidskontrakt.",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 7494.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1798758000000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "313009",
+    "version": "f-1560862"
+   }
+  },
+  {
+   "id": "P9P7d4YkyWYyDmfWqFfbyXfR",
+   "localId": "11350149",
+   "number": "AN-24704",
+   "displayName": "Lertagsgatan 58 ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 11706.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 exempelbild interiör",
+    "version": "f-1962846"
+   }
+  },
+  {
+   "id": "FVG68bpdD8Txkp4wBByDCQkT",
+   "localId": "11350144",
+   "number": "AN-24701",
+   "displayName": "Tengvallsgatan 6 ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 8791.62
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 60.4
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "001 ai-genererad inredning",
+    "version": "f-1928179"
+   }
+  },
+  {
+   "id": "CjhPXFCjBbKDmWdKqCxKXccX",
+   "localId": "11350142",
+   "number": "AN-24700",
+   "displayName": "Tengvallsgatan 10 ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10754.13
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "00 ai-genererad inredning",
+    "version": "f-1927291"
+   }
+  },
+  {
+   "id": "XKCfJjDKbJvBqxGprxfwcymw",
+   "localId": "11350093",
+   "number": "AN-24699",
+   "displayName": "Prosagatan 13  C ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 11526.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Vivalla"
+    },
+    "areaPath": [
+     {
+      "id": "9p4Jdx6c7MhXkgPPmbWQYGXV",
+      "displayName": "Vivalla"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1798758000000)/"
+   },
+   "size": {
+    "roomsDisplayName": "5 rum och kök",
+    "shortRoomsDisplayName": "5RK",
+    "area": 130.4
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "Prosagatan generell 01",
+    "version": "f-1560433"
+   }
+  },
+  {
+   "id": "gwhTBVPVrRxyTVPgCkBkc69p",
+   "localId": "11282911",
+   "number": "AN-22343",
+   "displayName": "Tengvallsgatan 26",
+   "description": "Nu hyr vi ut de nyrenoverade lägenheterna på Tengvallsgatan!",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10541.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1794697200000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "00 ai-genererad inredning",
+    "version": "f-1927291"
+   }
+  },
+  {
+   "id": "DcPGgrgjpftTkFkCkKMq6Q8x",
+   "localId": "11325740",
+   "number": "AN-23541",
+   "displayName": "Lertagsgatan 58",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 11767.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1796079600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 exempelbild interiör",
+    "version": "f-1962846"
+   }
+  },
+  {
+   "id": "mb7q94fqdkTWvF9J9W7CKrHP",
+   "localId": "11250423",
+   "number": "AN-20420",
+   "displayName": "Tengvallsgatan 24",
+   "description": "Nu hyr vi ut de nyrenoverade lägenheterna på Tengvallsgatan!",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10920.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1794697200000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "00 ai-genererad inredning",
+    "version": "f-1927291"
+   }
+  },
+  {
+   "id": "dJkKfkvrTbPFvytk4VFWH6Cf",
+   "localId": "11329482",
+   "number": "AN-23682",
+   "displayName": "Lertagsgatan 58",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 9989.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1793487600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 62.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 exempelbild interiör",
+    "version": "f-1962814"
+   }
+  },
+  {
+   "id": "HcCfKb4tcgc9CBXk4yRxMXPV",
+   "localId": "11317664",
+   "number": "AN-23145",
+   "displayName": "Lertagsgatan 58",
+   "description": "Rabatt t.o.m. mars 2028\r\nHyresrabatt: 1 000 kr per månad, dras från den angivna hyran\r\nGäller t.o.m. mars 2028\r\nInflyttning enligt datum i annons\r\nGäller befintliga ÖBO-hyresgäster och nya hyresgäster.",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10409.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Tengvallsgatan"
+    },
+    "areaPath": [
+     {
+      "id": "xkFf8RJwDCDy6Bc4H7cC7cfc",
+      "displayName": "Tengvallsgatan"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1798758000000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 62.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 exempelbild interiör",
+    "version": "f-1962814"
+   }
+  },
+  {
+   "id": "XWQpVVF9gRbP74ch7grKPD86",
+   "localId": "11276246",
+   "number": "AN-21826",
+   "displayName": "Höglundagatan 44",
+   "description": "Nyrenoverat på Höglundagatan!\nVälkommen att titta i vår visningslägenhet på Höglundagatan 34. Varje onsdag klockan 14.00-14.30 är vi på plats.",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 9360.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Norrby"
+    },
+    "areaPath": [
+     {
+      "id": "FKVpQTpBBqWvbQgJgRdKGfbd",
+      "displayName": "Norr"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1793487600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 58.4
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 hall exempelbild",
+    "version": "f-2043795"
+   }
+  },
+  {
+   "id": "dWJDVKDFHJpyX9DkHdkmf8XC",
+   "localId": "11330108",
+   "number": "AN-23735",
+   "displayName": "Hjalmar Bergmans Väg 52 ",
+   "description": "Hyresrabatt i tre år för nya ÖBO-hyresgäster",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 8457.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Baronbackarna"
+    },
+    "areaPath": [
+     {
+      "id": "TJW4tDDkfKRjhDp4hXrhj88K",
+      "displayName": "Baronbackarna"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1803855600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 47.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 431_019_0_rabatt",
+    "version": "f-1748376"
+   }
+  },
+  {
+   "id": "HrMHBfXy7MyDWhFpgHdcfVPQ",
+   "localId": "11325689",
+   "number": "AN-23537",
+   "displayName": "Lertagsgatan 61",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 7930.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Markbacken"
+    },
+    "areaPath": [
+     {
+      "id": "pkHqPbd76qhYxBYFFChYBHww",
+      "displayName": "Markbacken"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1796079600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 59.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "311053_6154",
+    "version": "f-1562137"
+   }
+  },
+  {
+   "id": "6dgFMMGRBrx467BmTvPk4yyx",
+   "localId": "11348061",
+   "number": "AN-24620",
+   "displayName": "Gäddestavägen 4 A ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10715.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Björkhaga"
+    },
+    "areaPath": [
+     {
+      "id": "KjtYxqjjdpJfJfwm86PdWjgp",
+      "displayName": "Björkhaga/Karlslund"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 62.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 343-001_1",
+    "version": "f-1561100"
+   }
+  },
+  {
+   "id": "CGhjgVJHDqwpvX9YXbCRRTry",
+   "localId": "11349434",
+   "number": "AN-24696",
+   "displayName": "Varbergagatan 30 ",
+   "description": "Här finns Diskmaskin, Tvättperlare och Balkong - Flytta in tidigare om du vill.",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 10122.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Varberga"
+    },
+    "areaPath": [
+     {
+      "id": "ygT4bJwRP9d84V7Hhd6rvJj6",
+      "displayName": "Varberga"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1803855600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 75.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "Varbergagatan 30-36",
+    "version": "f-1559580"
+   }
+  },
+  {
+   "id": "wDybmhwkpfYdJr7ppYWWXVc6",
+   "localId": "11320398",
+   "number": "AN-23268",
+   "displayName": "Visgatan 17 ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 8947.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Vivalla"
+    },
+    "areaPath": [
+     {
+      "id": "9p4Jdx6c7MhXkgPPmbWQYGXV",
+      "displayName": "Vivalla"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 60.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "001 Visgatan 17",
+    "version": "f-1560715"
+   }
+  },
+  {
+   "id": "htMgQPMpXkx8Wtmx88tTRfBc",
+   "localId": "11349365",
+   "number": "AN-24691",
+   "displayName": "Längbrogatan 4  B ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 7007.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Norrby"
+    },
+    "areaPath": [
+     {
+      "id": "FKVpQTpBBqWvbQgJgRdKGfbd",
+      "displayName": "Norr"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1803855600000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 53.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 Längbrogatan 2-4_1",
+    "version": "f-1560507"
+   }
+  },
+  {
+   "id": "CyBX6Tjxf6h7PRVVpWvBxV7r",
+   "localId": "11349345",
+   "number": "AN-24690",
+   "displayName": "Varbergagatan 146",
+   "description": "Hyresrabatt i tre år för nya ÖBO-hyresgäster",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 14434.1
+   },
+   "location": {
+    "area": {
+     "displayName": "Varberga"
+    },
+    "areaPath": [
+     {
+      "id": "ygT4bJwRP9d84V7Hhd6rvJj6",
+      "displayName": "Varberga"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "5 rum och kök",
+    "shortRoomsDisplayName": "5RK",
+    "area": 126.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 Hyresrabatt",
+    "version": "f-1756917"
+   }
+  },
+  {
+   "id": "WpfmbYF7R7XJTHgj4yYkKPGm",
+   "localId": "11349343",
+   "number": "AN-24689",
+   "displayName": "Majorsgatan 3 ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 8267.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Norrby"
+    },
+    "areaPath": [
+     {
+      "id": "FKVpQTpBBqWvbQgJgRdKGfbd",
+      "displayName": "Norr"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1798758000000)/"
+   },
+   "size": {
+    "roomsDisplayName": "3 rum och kök",
+    "shortRoomsDisplayName": "3RK",
+    "area": 71.8
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "Majorsgatan 1-6_1",
+    "version": "f-1559727"
+   }
+  },
+  {
+   "id": "7pQVpKQhFb8TH4XqmxxcwKT7",
+   "localId": "11349334",
+   "number": "AN-24688",
+   "displayName": "Varbergagatan 132",
+   "description": "Hyresrabatt i tre år för nya ÖBO-hyresgäster",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 7441.96
+   },
+   "location": {
+    "area": {
+     "displayName": "Varberga"
+    },
+    "areaPath": [
+     {
+      "id": "ygT4bJwRP9d84V7Hhd6rvJj6",
+      "displayName": "Varberga"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 50.0
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "01 Hyresrabatt",
+    "version": "f-1756917"
+   }
+  },
+  {
+   "id": "hbQCFGd4pXD8pGV9HxQFvkDp",
+   "localId": "11349314",
+   "number": "AN-24687",
+   "displayName": "Rickardsbergsgatan 3 ",
+   "type": "residential",
+   "queueType": "residential",
+   "pricing": {
+    "price": 6546.0
+   },
+   "location": {
+    "area": {
+     "displayName": "Norrby"
+    },
+    "areaPath": [
+     {
+      "id": "FKVpQTpBBqWvbQgJgRdKGfbd",
+      "displayName": "Norr"
+     }
+    ]
+   },
+   "availability": {
+    "availableFrom": "/Date(1801436400000)/"
+   },
+   "size": {
+    "roomsDisplayName": "2 rum och kök",
+    "shortRoomsDisplayName": "2RK",
+    "area": 60.1
+   },
+   "thumbnail": {
+    "exists": true,
+    "displayName": "Rickardsbergsgatan 1-7_01",
+    "version": "f-1691581"
+   }
+  }
+ ]
+}

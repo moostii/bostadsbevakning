@@ -1,0 +1,149 @@
+{
+ "id": "WpWwfbqVfX7JcJBjqwD8Ygh8",
+ "localId": "11349223",
+ "number": "AN-24682",
+ "displayName": "Tallrisvägen 37  C",
+ "type": "residential",
+ "queueType": "residential",
+ "queueTypeDisplayName": "Bostad",
+ "pricing": {
+  "price": 6219.0
+ },
+ "economy": {},
+ "location": {
+  "area": {
+   "displayName": "Brickebacken"
+  },
+  "areaPath": [
+   {
+    "id": "9mkYpkgFb4HhDhT4vMhkhrmJ",
+    "displayName": "Brickebacken"
+   }
+  ],
+  "address": {
+   "address": "Tallrisvägen 37  C",
+   "street": "Tallrisvägen",
+   "streetnumber": "37",
+   "postcode": "70234",
+   "city": "ÖREBRO",
+   "country": "Sverige",
+   "completeAdress": "Tallrisvägen 37  C, 70234, ÖREBRO, Sverige"
+  },
+  "floorDisplayName": "Våning 1",
+  "signNumber": "201  "
+ },
+ "availability": {
+  "availableFrom": "/Date(1796079600000)/"
+ },
+ "publishing": {
+  "published": true
+ },
+ "application": {
+  "openTo": "/Date(1794697140000)/"
+ },
+ "size": {
+  "roomsDisplayName": "2 rum och kök",
+  "area": 65.6
+ },
+ "included": [
+  {
+   "displayName": "Balkong"
+  },
+  {
+   "displayName": "Balkong läge öster"
+  },
+  {
+   "displayName": "Ej hiss"
+  }
+ ],
+ "attributes": [],
+ "info": {
+  "area": [
+   {
+    "displayName": "Brickebacken",
+    "value": "Brickebacken ligger fem kilometer sydost om stadskärnan, med närhet till skog, motionsspår, strövområden och gott om gräsytor. \r\n\r\nI centrum finns en modern ICA-butik med brett sortiment – här kan du öppna butiken själv och handla med hjälp av en app. Området har även ett fint inomhusbad med gym samt kultur- och fritidsföreningen Trädet, som erbjuder verksamhet för alla åldrar. I Brickebacken finns förskola och skola från årskurs F–6.\r\n\r\nI stadsdelen finns några av ÖBOs seniorbostäder för dig som fyllt 65 år samt studentbostäder i olika storlekar. Till universitetet är det knappt 1,5 kilometer.\r\n\r\nFrån Brickebacken går stadsbussarna ofta, med den nya snabba Citylinjen.",
+    "linkedToType": "residentialArea",
+    "typeOrder": 50
+   }
+  ],
+  "company": [
+   {
+    "displayName": "Hemförsäkring",
+    "value": "Hemförsäkring\nVid tecknande av bostadsavtal läggs ÖBOs hemförsäkring automatiskt till på avtalet. \n<a href=\"https://www.obo.se/ar-hyresgast/boendeinformation/hemforsakring/\">Läs mer om hemförsäkringen här.</a>",
+    "linkedToType": "organisation1",
+    "typeOrder": 60
+   },
+   {
+    "displayName": "Information om hyran",
+    "value": "Hyran i annonsen är 2026 års hyresnivå.",
+    "linkedToType": "organisation1",
+    "typeOrder": 60
+   }
+  ]
+ },
+ "files": {
+  "locationImage": [
+   {
+    "displayName": "00 vardagsrum",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/2122728",
+    "linkedToType": "rentalObject"
+   },
+   {
+    "displayName": "001 kök",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/2122729",
+    "linkedToType": "rentalObject"
+   },
+   {
+    "displayName": "002 hall",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/2122730",
+    "linkedToType": "rentalObject"
+   },
+   {
+    "displayName": "003 sovrum",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/2122731",
+    "linkedToType": "rentalObject"
+   },
+   {
+    "displayName": "004 klädkammare",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/2122732",
+    "linkedToType": "rentalObject"
+   },
+   {
+    "displayName": "01 Tallrisvägen 37",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/1832082",
+    "linkedToType": "building"
+   },
+   {
+    "displayName": "02 Tallrisvägen 37",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/1832085",
+    "linkedToType": "building"
+   },
+   {
+    "displayName": "03 Tallrisvägen 37",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/1832086",
+    "linkedToType": "building"
+   },
+   {
+    "displayName": "Tallrisvägen 37",
+    "mimeType": "image/jpeg",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/images/1711513",
+    "linkedToType": "building"
+   }
+  ],
+  "floorplan": [
+   {
+    "displayName": "Planritning",
+    "mimeType": "application/pdf",
+    "address": "https://obo-fastighet.momentum.se/Prod/Obo/PmApi/v2/market/objects/WpWwfbqVfX7JcJBjqwD8Ygh8/files/external"
+   }
+  ]
+ }
+}
