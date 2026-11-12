@@ -1,0 +1,48 @@
+name: Bostadsbevakning
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # GitHub kör schemat "best effort" – förseningar på 5–30 min förekommer
+  workflow_dispatch:          # manuell körning via fliken Actions
+
+permissions:
+  contents: write             # för att kunna committa data/seen.json
+
+concurrency:
+  group: bevakning
+  cancel-in-progress: false
+
+jobs:
+  bevaka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installera beroenden
+        run: pip install -r requirements.txt
+        # Playwright använder runnerns förinstallerade Google Chrome – ingen nedladdning behövs.
+
+      - name: Kör bevakningen
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python -m bevakning
+
+      - name: Spara state (bara om något ändrats)
+        if: success() || failure()
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/
+            git commit -m "Uppdatera seen.json [skip ci]"
+            git pull --rebase
+            git push
+          else
+            echo "seen.json oförändrad – ingen commit."
+          fi
