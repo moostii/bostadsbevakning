@@ -12,6 +12,10 @@
    "first_seen": "2026-11-12",
    "fp": "karlsdalsallén 58c|1|7370"
   },
+  "boio:botrygg-momentum:jpFctqbvYmbRdyQJttHfCQcJ": {
+   "first_seen": "2026-11-13",
+   "fp": "karlsdalsallén 23c|2|9010"
+  },
   "boio:botrygg-momentum:td7rVpbXVmVXpB7yrgdjwTjP": {
    "first_seen": "2026-11-12",
    "fp": "karlsdalsallén 58a|1|5142"
@@ -27,6 +31,10 @@
   "boio:finfast-momentum:96MCm4mWCV4bdchJbHBQvg7m": {
    "first_seen": "2026-11-12",
    "fp": "lars wivallius väg 95|2|5888"
+  },
+  "boio:finfast-momentum:cDRDgGckvvFpJyMk7WYW7jJ8": {
+   "first_seen": "2026-11-13",
+   "fp": "lars wivallius väg 115|1|4688"
   },
   "boio:k2a-senior-momentum:KjGQfQ7qFPx77rYFxYyWTPRM": {
    "first_seen": "2026-11-12",
@@ -116,6 +124,10 @@
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 52|3|10751"
   },
+  "obo:AN-21360": {
+   "first_seen": "2026-11-13",
+   "fp": "höglundagatan 52|3|10742"
+  },
   "obo:AN-21361": {
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 54|3|10468"
@@ -148,9 +160,17 @@
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 48|2|9360"
   },
+  "obo:AN-21830": {
+   "first_seen": "2026-11-13",
+   "fp": "höglundagatan 48|2|9012"
+  },
   "obo:AN-22175": {
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 50|2|9012"
+  },
+  "obo:AN-22184": {
+   "first_seen": "2026-11-13",
+   "fp": "höglundagatan 50|3|10751"
   },
   "obo:AN-22343": {
    "first_seen": "2026-11-12",
@@ -159,6 +179,10 @@
   "obo:AN-22527": {
    "first_seen": "2026-11-12",
    "fp": "tybblegatan 78|2|6608"
+  },
+  "obo:AN-23082": {
+   "first_seen": "2026-11-13",
+   "fp": "varbergagatan 140|3|12037"
   },
   "obo:AN-23145": {
    "first_seen": "2026-11-12",
@@ -251,6 +275,10 @@
   "obo:AN-24247": {
    "first_seen": "2026-11-12",
    "fp": "änggatan 16b|3|11101"
+  },
+  "obo:AN-24276": {
+   "first_seen": "2026-11-13",
+   "fp": "författargatan 16c|5|12682"
   },
   "obo:AN-24312": {
    "first_seen": "2026-11-12",
