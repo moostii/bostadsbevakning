@@ -691,6 +691,26 @@
   "obo:AN-24755": {
    "first_seen": "2026-11-13",
    "fp": "lertagsgatan 6b|2|8232"
+  },
+  "obo:AN-24756": {
+   "first_seen": "2026-11-13",
+   "fp": "örnsköldsgatan 147|3|12215"
+  },
+  "obo:AN-24758": {
+   "first_seen": "2026-11-13",
+   "fp": "tornfalkgatan 10|2|6847"
+  },
+  "obo:AN-24761": {
+   "first_seen": "2026-11-13",
+   "fp": "krukmakaregatan 37|2|6460"
+  },
+  "obo:AN-24762": {
+   "first_seen": "2026-11-13",
+   "fp": "varbergagatan 120|2|8060"
+  },
+  "obo:AN-24763": {
+   "first_seen": "2026-11-13",
+   "fp": "varbergagatan 128|3|9855"
   }
  },
  "version": 1,
