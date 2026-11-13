@@ -4,9 +4,21 @@
   "obo"
  ],
  "seen": {
+  "boio:asplunds-fastigheter-momentum:7jcRdqKkQhXXr4k7PjkbbTFf": {
+   "first_seen": "2026-11-13",
+   "fp": "universitetsgatan 11b|4|14751"
+  },
+  "boio:asplunds-fastigheter-momentum:FkctT9MQTThmmjyTqJKvTcWp": {
+   "first_seen": "2026-11-13",
+   "fp": "norrbackavägen 4|2|7994"
+  },
   "boio:asplunds-fastigheter-momentum:Hr4MdbMfGC44VR7BTRyFjTcP": {
    "first_seen": "2026-11-12",
    "fp": "universitetsgatan 9|3|10770"
+  },
+  "boio:asplunds-fastigheter-momentum:RJB7F6w4hRHWFm6DvVB7HQmH": {
+   "first_seen": "2026-11-13",
+   "fp": "österängsgatan 12|1|7088"
   },
   "boio:botrygg-momentum:MGdvHjHT789xJbGYrVPYqWWJ": {
    "first_seen": "2026-11-12",
@@ -36,13 +48,33 @@
    "first_seen": "2026-11-13",
    "fp": "lars wivallius väg 115|1|4688"
   },
+  "boio:heimstaden-direct:1396100-1201": {
+   "first_seen": "2026-11-13",
+   "fp": "norrgatan 31a|1|3545"
+  },
+  "boio:heimstaden-direct:1398100-1202": {
+   "first_seen": "2026-11-13",
+   "fp": "västra nobelgatan 20|1|4211"
+  },
+  "boio:heimstaden-direct:1406100-1105": {
+   "first_seen": "2026-11-13",
+   "fp": "tegnérgatan 23|2|7200"
+  },
   "boio:k2a-senior-momentum:KjGQfQ7qFPx77rYFxYyWTPRM": {
    "first_seen": "2026-11-12",
    "fp": "segelgatan 3|2|8601"
   },
+  "boio:k2a-senior-momentum:dPpqTXgy698tk4HFxH7cVdpY": {
+   "first_seen": "2026-11-13",
+   "fp": "karlsdalsallén 27|1|5389"
+  },
   "boio:k2a-senior-momentum:hMY6yJp7bjmrR4TppQDFHmh7": {
    "first_seen": "2026-11-12",
    "fp": "termikgatan 33|1|6185"
+  },
+  "boio:k2a-senior-momentum:yTBFTmJphM9wBCk4jcyW9QDx": {
+   "first_seen": "2026-11-13",
+   "fp": "karlsdalsallén 27|2|8097"
   },
   "boio:lansgarden-vitec:1003-0115": {
    "first_seen": "2026-11-12",
@@ -51,6 +83,10 @@
   "boio:lundbergs-orebro:ee3ee639-e6dc-f111-84e8-7c1e523671af": {
    "first_seen": "2026-11-12",
    "fp": "angelgatan 2|2|8084"
+  },
+  "boio:ragnfast-momentum:GyGTy6K9dFCVfgKcXXMkc96V": {
+   "first_seen": "2026-11-13",
+   "fp": "längbrotorg 8c|1|5378"
   },
   "boio:ragnfast-momentum:JvxtTpYdbtKhK4v6bJJktCfF": {
    "first_seen": "2026-11-12",
@@ -224,6 +260,10 @@
    "first_seen": "2026-11-12",
    "fp": "hjalmar bergmans väg 52|2|8457"
   },
+  "obo:AN-23807": {
+   "first_seen": "2026-11-13",
+   "fp": "tengvallsgatan 16|3|10734"
+  },
   "obo:AN-23833": {
    "first_seen": "2026-11-12",
    "fp": "krönikegatan 22c|3|10626"
@@ -260,6 +300,10 @@
    "first_seen": "2026-11-12",
    "fp": "tengvallsgatan 26|3|10888"
   },
+  "obo:AN-24156": {
+   "first_seen": "2026-11-13",
+   "fp": "hjalmar bergmans väg 52|3|11220"
+  },
   "obo:AN-24181": {
    "first_seen": "2026-11-12",
    "fp": "peppargatan 16|2|9332"
@@ -279,6 +323,10 @@
   "obo:AN-24276": {
    "first_seen": "2026-11-13",
    "fp": "författargatan 16c|5|12682"
+  },
+  "obo:AN-24304": {
+   "first_seen": "2026-11-13",
+   "fp": "kasten ottergatan 8|2|8178"
   },
   "obo:AN-24312": {
    "first_seen": "2026-11-12",
@@ -619,6 +667,30 @@
   "obo:AN-24748": {
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 33|1|7686"
+  },
+  "obo:AN-24749": {
+   "first_seen": "2026-11-13",
+   "fp": "lertagsgatan 56|4|13614"
+  },
+  "obo:AN-24750": {
+   "first_seen": "2026-11-13",
+   "fp": "tunnlandsgatan 29d|3|11147"
+  },
+  "obo:AN-24752": {
+   "first_seen": "2026-11-13",
+   "fp": "ekängsgatan 15|3|9855"
+  },
+  "obo:AN-24753": {
+   "first_seen": "2026-11-13",
+   "fp": "östra vintergatan 24|2|7445"
+  },
+  "obo:AN-24754": {
+   "first_seen": "2026-11-13",
+   "fp": "västra vintergatan 182|1|4510"
+  },
+  "obo:AN-24755": {
+   "first_seen": "2026-11-13",
+   "fp": "lertagsgatan 6b|2|8232"
   }
  },
  "version": 1,
