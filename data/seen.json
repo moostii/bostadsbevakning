@@ -60,6 +60,10 @@
    "first_seen": "2026-11-13",
    "fp": "tegnérgatan 23|2|7200"
   },
+  "boio:k2a-senior-momentum:7FVJ4Tc4gwGQ4RGxbjjYGcv8": {
+   "first_seen": "2026-11-14",
+   "fp": "termikgatan 33|2|10041"
+  },
   "boio:k2a-senior-momentum:KjGQfQ7qFPx77rYFxYyWTPRM": {
    "first_seen": "2026-11-12",
    "fp": "segelgatan 3|2|8601"
@@ -112,6 +116,10 @@
    "first_seen": "2026-11-12",
    "fp": "nygatan 37|2|12396"
   },
+  "boio:soderberg-fastigheter-momentum:XgjBpKYjBgymWTk7dJ9hY4xg": {
+   "first_seen": "2026-11-14",
+   "fp": "rostagatan 5|2|9363"
+  },
   "boio:soderberg-fastigheter-momentum:Y6FPQj7vRhmqh7BpCjxktBx7": {
    "first_seen": "2026-11-12",
    "fp": "olaigatan 3b|2|10070"
@@ -128,6 +136,10 @@
    "first_seen": "2026-11-12",
    "fp": "värngatan 12|3|12986"
   },
+  "boio:soderberg-fastigheter-momentum:y8dd4MXvpqVBDvYqFK9Q869x": {
+   "first_seen": "2026-11-14",
+   "fp": "västra bangatan 23|4|9469"
+  },
   "boio:victoria-park-vitec:7019-012-14199": {
    "first_seen": "2026-11-12",
    "fp": "björkrisvägen 14h|2|9863"
@@ -136,6 +148,10 @@
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 154|3|10347"
   },
+  "boio:victoria-park-vitec:7020-028-99250": {
+   "first_seen": "2026-11-14",
+   "fp": "varbergagatan 155|2|9119"
+  },
   "boio:victoria-park-vitec:7020-033-28197": {
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 174|3|10901"
@@ -143,6 +159,10 @@
   "boio:victoria-park-vitec:7021-013-11502": {
    "first_seen": "2026-11-12",
    "fp": "tallrisvägen 1r|3|11749"
+  },
+  "boio:victoria-park-vitec:7021-020-70602": {
+   "first_seen": "2026-11-14",
+   "fp": "tallrisvägen 17l|2|9825"
   },
   "obo:AN-20420": {
    "first_seen": "2026-11-12",
