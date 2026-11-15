@@ -220,6 +220,10 @@
    "first_seen": "2026-11-13",
    "fp": "höglundagatan 48|2|9012"
   },
+  "obo:AN-21891": {
+   "first_seen": "2026-11-15",
+   "fp": "örnsköldsgatan 87|3|7361"
+  },
   "obo:AN-22175": {
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 50|2|9012"
@@ -351,6 +355,14 @@
   "obo:AN-24312": {
    "first_seen": "2026-11-12",
    "fp": "östra vintergatan 72|2|7296"
+  },
+  "obo:AN-24338": {
+   "first_seen": "2026-11-15",
+   "fp": "tengvallsgatan 28|2|8889"
+  },
+  "obo:AN-24342": {
+   "first_seen": "2026-11-15",
+   "fp": "tengvallsgatan 28|3|10541"
   },
   "obo:AN-24349": {
    "first_seen": "2026-11-12",
