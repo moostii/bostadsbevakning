@@ -292,6 +292,10 @@
    "first_seen": "2026-11-13",
    "fp": "tengvallsgatan 16|3|10734"
   },
+  "obo:AN-23828": {
+   "first_seen": "2026-11-15",
+   "fp": "krönikegatan 21a|3|9910"
+  },
   "obo:AN-23833": {
    "first_seen": "2026-11-12",
    "fp": "krönikegatan 22c|3|10626"
@@ -588,6 +592,10 @@
    "first_seen": "2026-11-12",
    "fp": "tallrisvägen 37c|2|6219"
   },
+  "obo:AN-24685": {
+   "first_seen": "2026-11-15",
+   "fp": "varbergagatan 40|2|9003"
+  },
   "obo:AN-24687": {
    "first_seen": "2026-11-12",
    "fp": "rickardsbergsgatan 3|2|6546"
@@ -735,6 +743,10 @@
   "obo:AN-24756": {
    "first_seen": "2026-11-13",
    "fp": "örnsköldsgatan 147|3|12215"
+  },
+  "obo:AN-24757": {
+   "first_seen": "2026-11-15",
+   "fp": "tunnlandsgatan 10d|2|9620"
   },
   "obo:AN-24758": {
    "first_seen": "2026-11-13",
