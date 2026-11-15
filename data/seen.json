@@ -16,6 +16,10 @@
    "first_seen": "2026-11-12",
    "fp": "universitetsgatan 9|3|10770"
   },
+  "boio:asplunds-fastigheter-momentum:MvDpVKgqbxQj4hF9y8GxhHJx": {
+   "first_seen": "2026-11-15",
+   "fp": "köpmangatan 9|3|13225"
+  },
   "boio:asplunds-fastigheter-momentum:RJB7F6w4hRHWFm6DvVB7HQmH": {
    "first_seen": "2026-11-13",
    "fp": "österängsgatan 12|1|7088"
@@ -735,6 +739,10 @@
   "obo:AN-24758": {
    "first_seen": "2026-11-13",
    "fp": "tornfalkgatan 10|2|6847"
+  },
+  "obo:AN-24759": {
+   "first_seen": "2026-11-15",
+   "fp": "varberga torg 5|3|12377"
   },
   "obo:AN-24761": {
    "first_seen": "2026-11-13",
