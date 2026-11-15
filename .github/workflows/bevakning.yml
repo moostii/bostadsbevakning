@@ -2,7 +2,9 @@ name: Bostadsbevakning
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # GitHub kör schemat "best effort" – förseningar på 5–30 min förekommer
+    # Var 15:e minut, men på udda minuter: GitHub kör schemat "best effort" och
+    # jämna klockslag (:00, :15, :30, :45) är mest belastade, så körningar där hoppas oftare över.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:          # manuell körning via fliken Actions
 
 permissions:
