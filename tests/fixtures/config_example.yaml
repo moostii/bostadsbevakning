@@ -1,0 +1,15 @@
+# Filter för bostadsbevakningen. Ändra värdena och committa – nästa körning använder dem.
+# Värdena nedan är EXEMPEL. Fyll i dina egna krav.
+# Sätt ett värde till null (eller ta bort raden) för att stänga av den gränsen.
+
+areas:            # matchas skiftlägesokänsligt mot område OCH adress; tom lista = alla områden
+  - Adolfsberg
+  - Rynninge
+  - Centrum
+exclude_areas: []
+min_rooms: 2
+max_rooms: 3
+min_size_m2: 45
+max_rent_sek: 10000
+keywords_any: []          # t.ex. ["balkong"] – kräver att minst ett ord finns i annonstexten om listan inte är tom
+keywords_exclude: ["korttidskontrakt", "andrahand"]

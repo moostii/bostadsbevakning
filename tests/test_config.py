@@ -7,8 +7,13 @@ from bevakning.config import Config, load_config
 ROOT = Path(__file__).resolve().parent.parent
 
 
+def test_live_config_is_valid():
+    # Dina egna filter i config.yaml ska alltid gå att läsa (värdena får vara vad som helst).
+    load_config(ROOT / "config.yaml")
+
+
 def test_load_example_config():
-    cfg = load_config(ROOT / "config.yaml")
+    cfg = load_config(ROOT / "tests" / "fixtures" / "config_example.yaml")
     assert cfg.areas == ["Adolfsberg", "Rynninge", "Centrum"]
     assert cfg.exclude_areas == []
     assert cfg.min_rooms == 2

@@ -3,9 +3,9 @@
 # Sätt ett värde till null (eller ta bort raden) för att stänga av den gränsen.
 
 areas:            # matchas skiftlägesokänsligt mot område OCH adress; tom lista = alla områden
-  - Adolfsberg
-  - Rynninge
-  - Centrum
+  - Centrum       # ÖBO: "Centrum Söder …", Boio: "City/Centrum"
+  - Centralt     # ÖBO: "…, Centralt" / "Centralt Öster"
+  - City         # Boio: "City/Centrum"
 exclude_areas: []
 min_rooms: 2
 max_rooms: 3
