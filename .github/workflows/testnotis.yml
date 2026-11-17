@@ -1,0 +1,26 @@
+name: Testnotis
+
+# Skickar ett valfritt meddelande till ntfy-ämnet i NTFY_TOPIC.
+# Kör via fliken Actions → Testnotis → Run workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: "Meddelande"
+        required: true
+        default: "Test från bostadsbevakningen"
+
+permissions: {}
+
+jobs:
+  skicka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Skicka till ntfy
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          MESSAGE: ${{ inputs.message }}   # via env, aldrig direkt i skriptet
+        run: |
+          curl -fsS --retry 3 -H "Title: Testnotis" --data-binary "$MESSAGE" "https://ntfy.sh/$NTFY_TOPIC" > /dev/null
+          echo "Skickat."

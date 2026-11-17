@@ -16,6 +16,8 @@ Tjänsten bevakar lediga hyreslägenheter i Örebro. När en ny annons matchar d
    curl -d "Test från bostadsbevakningen" ntfy.sh/DITT-ÄMNESNAMN
    ```
 
+   Eller utan terminal: fliken **Actions → Testnotis → Run workflow**, skriv ett meddelande och tryck **Run workflow**.
+
 > Ämnesnamnet fungerar som ett lösenord. Alla som känner till det kan läsa dina notiser, så använd ett långt, slumpmässigt namn (t.ex. `bostad-orebro-7f3k9q2xw8`).
 
 ## 2. Lägg in `NTFY_TOPIC` som secret i GitHub
