@@ -68,6 +68,10 @@
    "first_seen": "2026-11-13",
    "fp": "tegnérgatan 23|2|7200"
   },
+  "boio:k2a-senior-momentum:7FVJ4Tc4gwGQ4RGxbjjYGcv8": {
+   "first_seen": "2026-11-17",
+   "fp": "termikgatan 33|2|10041"
+  },
   "boio:k2a-senior-momentum:KjGQfQ7qFPx77rYFxYyWTPRM": {
    "first_seen": "2026-11-12",
    "fp": "segelgatan 3|2|8601"
@@ -116,6 +120,10 @@
    "first_seen": "2026-11-12",
    "fp": "karlsgatan 4b|2|5564"
   },
+  "boio:soderberg-fastigheter-momentum:GF6MCdFTXDpCQjWTwq7cpFDr": {
+   "first_seen": "2026-11-17",
+   "fp": "engelbrektsgatan 27a|3|11650"
+  },
   "boio:soderberg-fastigheter-momentum:MbdGBMWFMbKKRYgx4h7JPPwY": {
    "first_seen": "2026-11-12",
    "fp": "nygatan 37|2|12396"
@@ -123,6 +131,14 @@
   "boio:soderberg-fastigheter-momentum:XgjBpKYjBgymWTk7dJ9hY4xg": {
    "first_seen": "2026-11-14",
    "fp": "rostagatan 5|2|9363"
+  },
+  "boio:soderberg-fastigheter-momentum:Y6FPQj7vRhmqh7BpCjxktBx7": {
+   "first_seen": "2026-11-17",
+   "fp": "olaigatan 3b|2|10070"
+  },
+  "boio:soderberg-fastigheter-momentum:dCjtYdXCYpxYtm9bv6DXBdyq": {
+   "first_seen": "2026-11-17",
+   "fp": "rostagatan 3a|2|10411"
   },
   "boio:soderberg-fastigheter-momentum:djPPqPYwrqmGVvQxCvT6twRm": {
    "first_seen": "2026-11-12",
@@ -140,9 +156,17 @@
    "first_seen": "2026-11-17",
    "fp": "faktorigatan 11|3|9113"
   },
+  "boio:soderberg-fastigheter-momentum:y8dd4MXvpqVBDvYqFK9Q869x": {
+   "first_seen": "2026-11-17",
+   "fp": "västra bangatan 23|4|9469"
+  },
   "boio:victoria-park-vitec:7019-012-14199": {
    "first_seen": "2026-11-12",
    "fp": "björkrisvägen 14h|2|9863"
+  },
+  "boio:victoria-park-vitec:7020-028-88347": {
+   "first_seen": "2026-11-17",
+   "fp": "varbergagatan 154|3|10347"
   },
   "boio:victoria-park-vitec:7020-028-99250": {
    "first_seen": "2026-11-14",
@@ -151,6 +175,10 @@
   "boio:victoria-park-vitec:7021-020-70602": {
    "first_seen": "2026-11-14",
    "fp": "tallrisvägen 17l|2|9825"
+  },
+  "obo:AN-20469": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 28|3|10888"
   },
   "obo:AN-21357": {
    "first_seen": "2026-11-17",
@@ -200,9 +228,21 @@
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 50|2|9012"
   },
+  "obo:AN-22184": {
+   "first_seen": "2026-11-17",
+   "fp": "höglundagatan 50|3|10751"
+  },
+  "obo:AN-22402": {
+   "first_seen": "2026-11-17",
+   "fp": "höglundagatan 36|3|10816"
+  },
   "obo:AN-22527": {
    "first_seen": "2026-11-12",
    "fp": "tybblegatan 78|2|6608"
+  },
+  "obo:AN-22837": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 26|3|10541"
   },
   "obo:AN-23082": {
    "first_seen": "2026-11-13",
@@ -243,6 +283,10 @@
   "obo:AN-23494": {
    "first_seen": "2026-11-16",
    "fp": "grankottevägen 6|1|6205"
+  },
+  "obo:AN-23498": {
+   "first_seen": "2026-11-17",
+   "fp": "torgvägen 4b|3|10914"
   },
   "obo:AN-23537": {
    "first_seen": "2026-11-12",
@@ -292,6 +336,10 @@
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 35|2|8516"
   },
+  "obo:AN-24006": {
+   "first_seen": "2026-11-17",
+   "fp": "lertagsgatan 56|3|11220"
+  },
   "obo:AN-24057": {
    "first_seen": "2026-11-12",
    "fp": "hjalmar bergmans väg 34|3|6862"
@@ -299,6 +347,14 @@
   "obo:AN-24063": {
    "first_seen": "2026-11-16",
    "fp": "grankottevägen 6|2|7976"
+  },
+  "obo:AN-24067": {
+   "first_seen": "2026-11-17",
+   "fp": "torgvägen 4a|3|10813"
+  },
+  "obo:AN-24156": {
+   "first_seen": "2026-11-17",
+   "fp": "hjalmar bergmans väg 52|3|11220"
   },
   "obo:AN-24157": {
    "first_seen": "2026-11-16",
@@ -324,6 +380,10 @@
    "first_seen": "2026-11-16",
    "fp": "varbergagatan 138|3|12495"
   },
+  "obo:AN-24247": {
+   "first_seen": "2026-11-17",
+   "fp": "änggatan 16b|3|11101"
+  },
   "obo:AN-24250": {
    "first_seen": "2026-11-16",
    "fp": "balladgatan 13b|2|6825"
@@ -344,6 +404,10 @@
    "first_seen": "2026-11-15",
    "fp": "tengvallsgatan 28|2|8889"
   },
+  "obo:AN-24342": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 28|3|10541"
+  },
   "obo:AN-24349": {
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 97|2|8774"
@@ -351,6 +415,10 @@
   "obo:AN-24426": {
    "first_seen": "2026-11-12",
    "fp": "balladgatan 22a|2|6460"
+  },
+  "obo:AN-24473": {
+   "first_seen": "2026-11-17",
+   "fp": "varbergagatan 25|3|10904"
   },
   "obo:AN-24474": {
    "first_seen": "2026-11-12",
@@ -471,6 +539,10 @@
   "obo:AN-24656": {
    "first_seen": "2026-11-12",
    "fp": "tengvallsgatan 76|3|7783"
+  },
+  "obo:AN-24657": {
+   "first_seen": "2026-11-17",
+   "fp": "skolgatan 8a|2|10245"
   },
   "obo:AN-24658": {
    "first_seen": "2026-11-12",
@@ -628,6 +700,10 @@
    "first_seen": "2026-11-13",
    "fp": "lertagsgatan 56|4|13614"
   },
+  "obo:AN-24750": {
+   "first_seen": "2026-11-17",
+   "fp": "tunnlandsgatan 29d|3|11147"
+  },
   "obo:AN-24752": {
    "first_seen": "2026-11-13",
    "fp": "ekängsgatan 15|3|9855"
@@ -700,9 +776,29 @@
    "first_seen": "2026-11-16",
    "fp": "drottninggatan 39|1|7047"
   },
+  "obo:AN-24777": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 26|3|10888"
+  },
+  "obo:AN-24778": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 24|3|11081"
+  },
   "obo:AN-24779": {
    "first_seen": "2026-11-16",
    "fp": "tunnelgatan 1a|1.5|8604"
+  },
+  "obo:AN-24780": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 24|3|10888"
+  },
+  "obo:AN-24782": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 24|3|10541"
+  },
+  "obo:AN-24784": {
+   "first_seen": "2026-11-17",
+   "fp": "tengvallsgatan 16|3|10734"
   },
   "obo:AN-24785": {
    "first_seen": "2026-11-16",
@@ -736,6 +832,10 @@
    "first_seen": "2026-11-17",
    "fp": "visgatan 18b|2|7834"
   },
+  "obo:AN-24810": {
+   "first_seen": "2026-11-17",
+   "fp": "östra vintergatan 30|3|10088"
+  },
   "obo:AN-24811": {
    "first_seen": "2026-11-17",
    "fp": "västra vintergatan 140|2|7419"
@@ -747,6 +847,34 @@
   "obo:AN-24816": {
    "first_seen": "2026-11-17",
    "fp": "tornfalkgatan 69|2|6832"
+  },
+  "obo:AN-24818": {
+   "first_seen": "2026-11-17",
+   "fp": "aspnäsgatan 7|1|7016"
+  },
+  "obo:AN-24819": {
+   "first_seen": "2026-11-17",
+   "fp": "skolgatan 6|4|12916"
+  },
+  "obo:AN-24820": {
+   "first_seen": "2026-11-17",
+   "fp": "trädgårdsgränd 2c|2|9907"
+  },
+  "obo:AN-24821": {
+   "first_seen": "2026-11-17",
+   "fp": "höglundagatan 20|3|11339"
+  },
+  "obo:AN-24824": {
+   "first_seen": "2026-11-17",
+   "fp": "versgatan 4b|2|7330"
+  },
+  "obo:AN-24825": {
+   "first_seen": "2026-11-17",
+   "fp": "vivallaringen 2n|2|6291"
+  },
+  "obo:AN-24828": {
+   "first_seen": "2026-11-17",
+   "fp": "trädgårdsgränd 1b|3|13687"
   }
  },
  "version": 1,
