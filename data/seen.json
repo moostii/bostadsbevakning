@@ -184,6 +184,10 @@
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 52|3|10751"
   },
+  "obo:AN-21357": {
+   "first_seen": "2026-11-17",
+   "fp": "höglundagatan 52|2|8938"
+  },
   "obo:AN-21360": {
    "first_seen": "2026-11-13",
    "fp": "höglundagatan 52|3|10742"
@@ -231,6 +235,10 @@
   "obo:AN-21891": {
    "first_seen": "2026-11-15",
    "fp": "örnsköldsgatan 87|3|7361"
+  },
+  "obo:AN-22173": {
+   "first_seen": "2026-11-17",
+   "fp": "höglundagatan 50|2|9360"
   },
   "obo:AN-22175": {
    "first_seen": "2026-11-12",
@@ -883,6 +891,10 @@
   "obo:AN-24785": {
    "first_seen": "2026-11-16",
    "fp": "västra vintergatan 226|1|5007"
+  },
+  "obo:AN-24787": {
+   "first_seen": "2026-11-17",
+   "fp": "södermalmsallén 10b|2|9727"
   },
   "obo:AN-24791": {
    "first_seen": "2026-11-16",
