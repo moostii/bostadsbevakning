@@ -1,0 +1,50 @@
+name: Diagnos Boio
+
+# Tillfällig felsökning: körs bara vid push till den här grenen, aldrig på main.
+on:
+  push:
+    branches: [claude/nifty-ramanujan-5rmc8i]
+
+permissions:
+  contents: read
+
+jobs:
+  diagnos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Undersök Boio-sidan
+        run: |
+          python - <<'PY'
+          import collections, json, re
+          from bevakning.http import PoliteClient
+          from bevakning.sources import boio
+
+          c = PoliteClient()
+          resp = c._request("GET", boio.SEARCH_URL)
+          html = resp.text
+          print("URL efter redirect:", resp.url)
+          print("Status:", resp.status_code, "· längd:", len(html))
+          m = re.search(r"<title>(.*?)</title>", html, re.S)
+          print("Titel:", m.group(1).strip() if m else None)
+          rsc = boio._rsc_payload(html)
+          print("RSC-längd:", len(rsc))
+          for key in ("initialListings", "listings", "totalCount", "total", "count", "objects"):
+              print(f"  förekomster av \"{key}\":", rsc.count(f'"{key}"'))
+          i = rsc.find('"initialListings":')
+          if i >= 0:
+              arr, _ = boio._DECODER.raw_decode(rsc, rsc.index("[", i))
+              print("initialListings-längd:", len(arr))
+              print("typer:", collections.Counter(x.get("type") for x in arr))
+              if arr:
+                  print("nycklar i första:", sorted(arr[0])[:40])
+              print("kontext runt initialListings:", rsc[max(0, i-300):i+300])
+          hrefs = sorted(set(re.findall(r'href="(/objekt[^"]*)"', html)))[:15]
+          print("objekt-länkar i HTML:", len(hrefs), hrefs)
+          PY
