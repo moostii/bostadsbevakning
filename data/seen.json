@@ -808,6 +808,10 @@
    "first_seen": "2026-11-17",
    "fp": "södermalmsallén 10b|2|9727"
   },
+  "obo:AN-24789": {
+   "first_seen": "2026-11-18",
+   "fp": "varbergagatan 125|2|8282"
+  },
   "obo:AN-24791": {
    "first_seen": "2026-11-16",
    "fp": "hovstavägen 25|3|9935"
@@ -843,6 +847,10 @@
   "obo:AN-24814": {
    "first_seen": "2026-11-17",
    "fp": "västra vintergatan 188|2|7303"
+  },
+  "obo:AN-24815": {
+   "first_seen": "2026-11-18",
+   "fp": "östra vintergatan 88|2|7937"
   },
   "obo:AN-24816": {
    "first_seen": "2026-11-17",
