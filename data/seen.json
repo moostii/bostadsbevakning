@@ -180,6 +180,10 @@
    "first_seen": "2026-11-17",
    "fp": "tengvallsgatan 28|3|10888"
   },
+  "obo:AN-21356": {
+   "first_seen": "2026-11-18",
+   "fp": "höglundagatan 52|3|10751"
+  },
   "obo:AN-21357": {
    "first_seen": "2026-11-17",
    "fp": "höglundagatan 52|2|8938"
@@ -320,6 +324,10 @@
    "first_seen": "2026-11-15",
    "fp": "krönikegatan 21a|3|9910"
   },
+  "obo:AN-23829": {
+   "first_seen": "2026-11-18",
+   "fp": "krönikegatan 22a|4|11766"
+  },
   "obo:AN-23839": {
    "first_seen": "2026-11-16",
    "fp": "askers kyrkväg 3|1|4416"
@@ -435,6 +443,10 @@
   "obo:AN-24508": {
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 26|2|8863"
+  },
+  "obo:AN-24513": {
+   "first_seen": "2026-11-18",
+   "fp": "idrottsvägen 20|2|7756"
   },
   "obo:AN-24518": {
    "first_seen": "2026-11-12",
@@ -832,6 +844,10 @@
    "first_seen": "2026-11-16",
    "fp": "lertagsgatan 53|2|8542"
   },
+  "obo:AN-24808": {
+   "first_seen": "2026-11-18",
+   "fp": "varbergagatan 138|2|10277"
+  },
   "obo:AN-24809": {
    "first_seen": "2026-11-17",
    "fp": "visgatan 18b|2|7834"
@@ -883,8 +899,54 @@
   "obo:AN-24828": {
    "first_seen": "2026-11-17",
    "fp": "trädgårdsgränd 1b|3|13687"
+  },
+  "obo:AN-24840": {
+   "first_seen": "2026-11-18",
+   "fp": "tunnlandsgatan 20c|3|10665"
+  },
+  "obo:AN-24842": {
+   "first_seen": "2026-11-18",
+   "fp": "varbergagatan 29|2|8126"
+  },
+  "obo:AN-24843": {
+   "first_seen": "2026-11-18",
+   "fp": "versgatan 18c|4|10818"
+  },
+  "obo:AN-24845": {
+   "first_seen": "2026-11-18",
+   "fp": "varbergagatan 129|2|9028"
+  },
+  "obo:AN-24848": {
+   "first_seen": "2026-11-18",
+   "fp": "krönikegatan 20a|3|11123"
+  },
+  "obo:AN-24849": {
+   "first_seen": "2026-11-18",
+   "fp": "lyrikgatan 15b|4|10876"
+  },
+  "obo:AN-24850": {
+   "first_seen": "2026-11-18",
+   "fp": "lertagsgatan 61|2|7847"
+  },
+  "obo:AN-24851": {
+   "first_seen": "2026-11-18",
+   "fp": "lyrikgatan 18e|4|14039"
+  },
+  "obo:AN-24852": {
+   "first_seen": "2026-11-18",
+   "fp": "granrisvägen 20l|3|7407"
+  },
+  "obo:AN-24853": {
+   "first_seen": "2026-11-18",
+   "fp": "poesigatan 2j|2|8251"
+  },
+  "obo:AN-24855": {
+   "first_seen": "2026-11-18",
+   "fp": "skaldegatan 6b|3|7678"
   }
  },
  "version": 1,
- "warnings": {}
+ "warnings": {
+  "boio": "2026-11-18T11:29:08+00:00"
+ }
 }
