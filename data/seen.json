@@ -24,6 +24,10 @@
    "first_seen": "2026-11-13",
    "fp": "österängsgatan 12|1|7088"
   },
+  "boio:asplunds-fastigheter-momentum:jrmQP8KGTdgQhkCwJWYhq9vK": {
+   "first_seen": "2026-11-18",
+   "fp": "björkbacken 6|2|9897"
+  },
   "boio:botrygg-momentum:MGdvHjHT789xJbGYrVPYqWWJ": {
    "first_seen": "2026-11-12",
    "fp": "karlsdalsallén 58c|1|7370"
@@ -943,6 +947,22 @@
   "obo:AN-24855": {
    "first_seen": "2026-11-18",
    "fp": "skaldegatan 6b|3|7678"
+  },
+  "obo:AN-24856": {
+   "first_seen": "2026-11-18",
+   "fp": "längbrotorg 10|1|3305"
+  },
+  "obo:AN-24857": {
+   "first_seen": "2026-11-18",
+   "fp": "varbergagatan 216|2|5723"
+  },
+  "obo:AN-24858": {
+   "first_seen": "2026-11-18",
+   "fp": "varbergagatan 131|3|10183"
+  },
+  "obo:AN-24860": {
+   "first_seen": "2026-11-18",
+   "fp": "västra vintergatan 114|2|7586"
   }
  },
  "version": 1,
