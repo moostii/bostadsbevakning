@@ -1019,6 +1019,62 @@
   "obo:AN-24872": {
    "first_seen": "2026-11-19",
    "fp": "hjalmar bergmans väg 60|1|5978"
+  },
+  "obo:AN-24877": {
+   "first_seen": "2026-11-19",
+   "fp": "prosagatan 6b|2|5979"
+  },
+  "obo:AN-24879": {
+   "first_seen": "2026-11-19",
+   "fp": "vivallaringen 2s|2|6835"
+  },
+  "obo:AN-24880": {
+   "first_seen": "2026-11-19",
+   "fp": "lars wivallius väg 65|2|6940"
+  },
+  "obo:AN-24893": {
+   "first_seen": "2026-11-19",
+   "fp": "strofgatan 19b|2|6398"
+  },
+  "obo:AN-24898": {
+   "first_seen": "2026-11-19",
+   "fp": "balladgatan 17a|2|6560"
+  },
+  "obo:AN-24900": {
+   "first_seen": "2026-11-19",
+   "fp": "ekängsgatan 27|2|8868"
+  },
+  "obo:AN-24901": {
+   "first_seen": "2026-11-19",
+   "fp": "författargatan 14c|2|6235"
+  },
+  "obo:AN-24903": {
+   "first_seen": "2026-11-19",
+   "fp": "versgatan 10b|2|7381"
+  },
+  "obo:AN-24908": {
+   "first_seen": "2026-11-19",
+   "fp": "polhemsgatan 18b|3|9470"
+  },
+  "obo:AN-24910": {
+   "first_seen": "2026-11-19",
+   "fp": "tunnelgatan 1b|1.5|7444"
+  },
+  "obo:AN-24911": {
+   "first_seen": "2026-11-19",
+   "fp": "toringsgatan 20|2|7179"
+  },
+  "obo:AN-24912": {
+   "first_seen": "2026-11-19",
+   "fp": "örnsköldsgatan 131|3|7200"
+  },
+  "obo:AN-24913": {
+   "first_seen": "2026-11-19",
+   "fp": "storgatan 21|2|9947"
+  },
+  "obo:AN-24914": {
+   "first_seen": "2026-11-19",
+   "fp": "storgatan 21|1|6625"
   }
  },
  "version": 1,
