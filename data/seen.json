@@ -4,6 +4,10 @@
   "obo"
  ],
  "seen": {
+  "boio:asplunds-fastigheter-momentum:7D7k7cG8PcPpM4CxffqgXyFJ": {
+   "first_seen": "2026-11-19",
+   "fp": "storgatan 41|2|8107"
+  },
   "boio:asplunds-fastigheter-momentum:7jcRdqKkQhXXr4k7PjkbbTFf": {
    "first_seen": "2026-11-13",
    "fp": "universitetsgatan 11b|4|14751"
@@ -27,6 +31,10 @@
   "boio:asplunds-fastigheter-momentum:jrmQP8KGTdgQhkCwJWYhq9vK": {
    "first_seen": "2026-11-18",
    "fp": "björkbacken 6|2|9897"
+  },
+  "boio:asplunds-fastigheter-momentum:kJGxy4qTGkmxbJh8TGGrfwb8": {
+   "first_seen": "2026-11-19",
+   "fp": "österängsgatan 16|4|14386"
   },
   "boio:botrygg-momentum:MGdvHjHT789xJbGYrVPYqWWJ": {
    "first_seen": "2026-11-12",
@@ -60,6 +68,14 @@
    "first_seen": "2026-11-13",
    "fp": "lars wivallius väg 115|1|4688"
   },
+  "boio:finfast-momentum:cFmw8jfdXMpMGFcDKgdpfFcC": {
+   "first_seen": "2026-11-19",
+   "fp": "pålsbodagatan 23|3|13085"
+  },
+  "boio:finfast-momentum:r4wdbcFBxQkmhYQPb4VcFGWf": {
+   "first_seen": "2026-11-19",
+   "fp": "pålsbodagatan 29|2|8540"
+  },
   "boio:heimstaden-direct:1396100-1201": {
    "first_seen": "2026-11-13",
    "fp": "norrgatan 31a|1|3545"
@@ -76,9 +92,21 @@
    "first_seen": "2026-11-17",
    "fp": "termikgatan 33|2|10041"
   },
+  "boio:k2a-senior-momentum:BRbbYh7WcwvCm9fMbrxCwPMp": {
+   "first_seen": "2026-11-19",
+   "fp": "karlsdalsallén 29|1|5389"
+  },
+  "boio:k2a-senior-momentum:FgR8gwbhCyF6vHdBYvmwtfRr": {
+   "first_seen": "2026-11-19",
+   "fp": "segelgatan 1|1|5232"
+  },
   "boio:k2a-senior-momentum:KjGQfQ7qFPx77rYFxYyWTPRM": {
    "first_seen": "2026-11-12",
    "fp": "segelgatan 3|2|8601"
+  },
+  "boio:k2a-senior-momentum:VHbPRXJtRX4rFPBTP4gcKvCR": {
+   "first_seen": "2026-11-19",
+   "fp": "segelgatan 1|2|7271"
   },
   "boio:k2a-senior-momentum:dPpqTXgy698tk4HFxH7cVdpY": {
    "first_seen": "2026-11-13",
@@ -87,6 +115,14 @@
   "boio:k2a-senior-momentum:hMY6yJp7bjmrR4TppQDFHmh7": {
    "first_seen": "2026-11-12",
    "fp": "termikgatan 33|1|6185"
+  },
+  "boio:k2a-senior-momentum:rKmWtWkCdJqRCmCTT94HDvhR": {
+   "first_seen": "2026-11-19",
+   "fp": "gyrogatan 5|3|12478"
+  },
+  "boio:k2a-senior-momentum:vTgJyYdQRTjqmjr7mdt9p77X": {
+   "first_seen": "2026-11-19",
+   "fp": "klaffgatan 2|2|8423"
   },
   "boio:k2a-senior-momentum:yTBFTmJphM9wBCk4jcyW9QDx": {
    "first_seen": "2026-11-13",
@@ -139,6 +175,10 @@
   "boio:soderberg-fastigheter-momentum:Y6FPQj7vRhmqh7BpCjxktBx7": {
    "first_seen": "2026-11-17",
    "fp": "olaigatan 3b|2|10070"
+  },
+  "boio:soderberg-fastigheter-momentum:b6WqYChFKw8D9W9PTcJDQtFQ": {
+   "first_seen": "2026-11-19",
+   "fp": "olaigatan 7|2|8972"
   },
   "boio:soderberg-fastigheter-momentum:dCjtYdXCYpxYtm9bv6DXBdyq": {
    "first_seen": "2026-11-17",
@@ -263,6 +303,10 @@
   "obo:AN-23110": {
    "first_seen": "2026-11-16",
    "fp": "varbergagatan 180|2|7895"
+  },
+  "obo:AN-23211": {
+   "first_seen": "2026-11-19",
+   "fp": "varbergagatan 137|2|7746"
   },
   "obo:AN-23268": {
    "first_seen": "2026-11-12",
@@ -904,6 +948,10 @@
    "first_seen": "2026-11-17",
    "fp": "vivallaringen 2n|2|6291"
   },
+  "obo:AN-24826": {
+   "first_seen": "2026-11-19",
+   "fp": "varbergagatan 238|6|12071"
+  },
   "obo:AN-24828": {
    "first_seen": "2026-11-17",
    "fp": "trädgårdsgränd 1b|3|13687"
@@ -967,6 +1015,10 @@
   "obo:AN-24860": {
    "first_seen": "2026-11-18",
    "fp": "västra vintergatan 114|2|7586"
+  },
+  "obo:AN-24872": {
+   "first_seen": "2026-11-19",
+   "fp": "hjalmar bergmans väg 60|1|5978"
   }
  },
  "version": 1,
