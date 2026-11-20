@@ -36,6 +36,10 @@
    "first_seen": "2026-11-19",
    "fp": "österängsgatan 16|4|14386"
   },
+  "boio:botrygg-momentum:44kYPHffRmKpQR4vbrG4JgtX": {
+   "first_seen": "2026-11-20",
+   "fp": "karlsdalsallén 58c|1|6417"
+  },
   "boio:botrygg-momentum:MGdvHjHT789xJbGYrVPYqWWJ": {
    "first_seen": "2026-11-12",
    "fp": "karlsdalsallén 58c|1|7370"
@@ -47,6 +51,10 @@
   "boio:botrygg-momentum:td7rVpbXVmVXpB7yrgdjwTjP": {
    "first_seen": "2026-11-12",
    "fp": "karlsdalsallén 58a|1|5142"
+  },
+  "boio:finfast-momentum:4HwMwgtmMBkGtPwxWdRWGMcX": {
+   "first_seen": "2026-11-20",
+   "fp": "loftbodsgatan 8|1|5460"
   },
   "boio:finfast-momentum:6KdXHTCbVKjdHVtrkwyrWMGx": {
    "first_seen": "2026-11-12",
@@ -120,6 +128,10 @@
    "first_seen": "2026-11-19",
    "fp": "gyrogatan 5|3|12478"
   },
+  "boio:k2a-senior-momentum:tc7WXXckT8WRVDRhxhMJVRPP": {
+   "first_seen": "2026-11-20",
+   "fp": "gyrogatan 5|2|9997"
+  },
   "boio:k2a-senior-momentum:vTgJyYdQRTjqmjr7mdt9p77X": {
    "first_seen": "2026-11-19",
    "fp": "klaffgatan 2|2|8423"
@@ -131,6 +143,10 @@
   "boio:lansgarden-vitec:1003-0115": {
    "first_seen": "2026-11-12",
    "fp": "slussgatan 4|1|5714"
+  },
+  "boio:lundbergs-orebro:6b790a76-efe3-f111-84e8-70a8a57aa9e2": {
+   "first_seen": "2026-11-20",
+   "fp": "peppargatan 11|2|9417"
   },
   "boio:lundbergs-orebro:ee3ee639-e6dc-f111-84e8-7c1e523671af": {
    "first_seen": "2026-11-12",
