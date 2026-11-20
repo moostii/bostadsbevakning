@@ -232,6 +232,10 @@
    "first_seen": "2026-11-17",
    "fp": "höglundagatan 52|2|8938"
   },
+  "obo:AN-21360": {
+   "first_seen": "2026-11-20",
+   "fp": "höglundagatan 52|3|10742"
+  },
   "obo:AN-21362": {
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 54|2|9370"
@@ -1019,6 +1023,10 @@
   "obo:AN-24872": {
    "first_seen": "2026-11-19",
    "fp": "hjalmar bergmans väg 60|1|5978"
+  },
+  "obo:AN-24873": {
+   "first_seen": "2026-11-20",
+   "fp": "författargatan 25d|2|5956"
   },
   "obo:AN-24877": {
    "first_seen": "2026-11-19",
