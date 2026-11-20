@@ -260,6 +260,10 @@
    "first_seen": "2026-11-12",
    "fp": "örnsköldsgatan 149|3|14181"
   },
+  "obo:AN-21819": {
+   "first_seen": "2026-11-20",
+   "fp": "höglundagatan 40|3|10918"
+  },
   "obo:AN-21822": {
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 40|2|9012"
@@ -396,9 +400,17 @@
    "first_seen": "2026-11-18",
    "fp": "krönikegatan 22a|4|11766"
   },
+  "obo:AN-23835": {
+   "first_seen": "2026-11-20",
+   "fp": "krönikegatan 12a|2|9471"
+  },
   "obo:AN-23839": {
    "first_seen": "2026-11-16",
    "fp": "askers kyrkväg 3|1|4416"
+  },
+  "obo:AN-23913": {
+   "first_seen": "2026-11-20",
+   "fp": "versgatan 10c|2|7498"
   },
   "obo:AN-23957": {
    "first_seen": "2026-11-12",
@@ -435,6 +447,10 @@
   "obo:AN-24157": {
    "first_seen": "2026-11-16",
    "fp": "hjalmar bergmans väg 52|2|8557"
+  },
+  "obo:AN-24158": {
+   "first_seen": "2026-11-20",
+   "fp": "hjalmar bergmans väg 52|3|11527"
   },
   "obo:AN-24181": {
    "first_seen": "2026-11-12",
@@ -1099,6 +1115,50 @@
   "obo:AN-24914": {
    "first_seen": "2026-11-19",
    "fp": "storgatan 21|1|6625"
+  },
+  "obo:AN-24924": {
+   "first_seen": "2026-11-20",
+   "fp": "hjalmar bergmans väg 116|3|8392"
+  },
+  "obo:AN-24929": {
+   "first_seen": "2026-11-20",
+   "fp": "kungsgatan 30b|4|13906"
+  },
+  "obo:AN-24930": {
+   "first_seen": "2026-11-20",
+   "fp": "tunnlandsgatan 18d|3|11320"
+  },
+  "obo:AN-24931": {
+   "first_seen": "2026-11-20",
+   "fp": "rudbecksgatan 18|3|9942"
+  },
+  "obo:AN-24935": {
+   "first_seen": "2026-11-20",
+   "fp": "höglundagatan 31|2|6653"
+  },
+  "obo:AN-24936": {
+   "first_seen": "2026-11-20",
+   "fp": "varbergagatan 248|2|5738"
+  },
+  "obo:AN-24937": {
+   "first_seen": "2026-11-20",
+   "fp": "metallvägen 30|1|4584"
+  },
+  "obo:AN-24938": {
+   "first_seen": "2026-11-20",
+   "fp": "metallvägen 8|1|4599"
+  },
+  "obo:AN-24939": {
+   "first_seen": "2026-11-20",
+   "fp": "örnsköldsgatan 83|3|7369"
+  },
+  "obo:AN-24943": {
+   "first_seen": "2026-11-20",
+   "fp": "varbergagatan 188|1|5650"
+  },
+  "obo:AN-24945": {
+   "first_seen": "2026-11-20",
+   "fp": "spannlandsgatan 5d|4|12370"
   }
  },
  "version": 1,
