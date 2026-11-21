@@ -88,6 +88,10 @@
    "first_seen": "2026-11-13",
    "fp": "norrgatan 31a|1|3545"
   },
+  "boio:heimstaden-direct:1397100-1202": {
+   "first_seen": "2026-11-21",
+   "fp": "norrgatan 33|1|4606"
+  },
   "boio:heimstaden-direct:1398100-1202": {
    "first_seen": "2026-11-13",
    "fp": "västra nobelgatan 20|1|4211"
@@ -204,6 +208,10 @@
    "first_seen": "2026-11-12",
    "fp": "hagagatan 30b|2|8588"
   },
+  "boio:soderberg-fastigheter-momentum:gTtr7QxJH9twMXGRpqMDtwkR": {
+   "first_seen": "2026-11-21",
+   "fp": "faktorigatan 11|1|5948"
+  },
   "boio:soderberg-fastigheter-momentum:gyRDqH7dcR8CG77hcBRBrGvg": {
    "first_seen": "2026-11-12",
    "fp": "hagagatan 30a|2|8357"
@@ -251,6 +259,10 @@
   "obo:AN-21360": {
    "first_seen": "2026-11-20",
    "fp": "höglundagatan 52|3|10742"
+  },
+  "obo:AN-21361": {
+   "first_seen": "2026-11-21",
+   "fp": "höglundagatan 54|3|10468"
   },
   "obo:AN-21362": {
    "first_seen": "2026-11-12",
