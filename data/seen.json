@@ -532,6 +532,10 @@
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 177|2|8086"
   },
+  "obo:AN-24481": {
+   "first_seen": "2026-11-22",
+   "fp": "varbergagatan 188|1|5978"
+  },
   "obo:AN-24483": {
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 189|2|8602"
@@ -1087,6 +1091,10 @@
   "obo:AN-24880": {
    "first_seen": "2026-11-19",
    "fp": "lars wivallius väg 65|2|6940"
+  },
+  "obo:AN-24881": {
+   "first_seen": "2026-11-22",
+   "fp": "balladgatan 19a|2|6064"
   },
   "obo:AN-24885": {
    "first_seen": "2026-11-21",
