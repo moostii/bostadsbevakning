@@ -1036,6 +1036,10 @@
    "first_seen": "2026-11-18",
    "fp": "versgatan 18c|4|10818"
   },
+  "obo:AN-24844": {
+   "first_seen": "2026-11-23",
+   "fp": "varberga torg 5|3|12489"
+  },
   "obo:AN-24845": {
    "first_seen": "2026-11-18",
    "fp": "varbergagatan 129|2|9028"
@@ -1215,6 +1219,14 @@
   "obo:AN-24945": {
    "first_seen": "2026-11-20",
    "fp": "spannlandsgatan 5d|4|12370"
+  },
+  "obo:AN-24956": {
+   "first_seen": "2026-11-23",
+   "fp": "lyrikgatan 11c|5|14624"
+  },
+  "obo:AN-24959": {
+   "first_seen": "2026-11-23",
+   "fp": "örnsköldsgatan 53|3|7594"
   }
  },
  "version": 1,
