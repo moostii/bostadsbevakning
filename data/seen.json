@@ -380,6 +380,10 @@
    "first_seen": "2026-11-12",
    "fp": "lertagsgatan 61|2|7930"
   },
+  "obo:AN-23576": {
+   "first_seen": "2026-11-23",
+   "fp": "höglundagatan 48|3|10816"
+  },
   "obo:AN-23592": {
    "first_seen": "2026-11-16",
    "fp": "varbergagatan 116|2|8341"
@@ -423,6 +427,10 @@
   "obo:AN-23857": {
    "first_seen": "2026-11-21",
    "fp": "lyrikgatan 10b|2|8766"
+  },
+  "obo:AN-23858": {
+   "first_seen": "2026-11-23",
+   "fp": "lyrikgatan 1b|2|8684"
   },
   "obo:AN-23913": {
    "first_seen": "2026-11-20",
@@ -1227,6 +1235,42 @@
   "obo:AN-24959": {
    "first_seen": "2026-11-23",
    "fp": "örnsköldsgatan 53|3|7594"
+  },
+  "obo:AN-24971": {
+   "first_seen": "2026-11-23",
+   "fp": "tengvallsgatan 18|3|10194"
+  },
+  "obo:AN-24975": {
+   "first_seen": "2026-11-23",
+   "fp": "tengvallsgatan 60|2|6576"
+  },
+  "obo:AN-24976": {
+   "first_seen": "2026-11-23",
+   "fp": "östra vintergatan 34|2|7190"
+  },
+  "obo:AN-24977": {
+   "first_seen": "2026-11-23",
+   "fp": "tengvallsgatan 20|3|10541"
+  },
+  "obo:AN-24978": {
+   "first_seen": "2026-11-23",
+   "fp": "lertagsgatan 6a|3|8458"
+  },
+  "obo:AN-24979": {
+   "first_seen": "2026-11-23",
+   "fp": "jakobsgatan 14|1|5203"
+  },
+  "obo:AN-24980": {
+   "first_seen": "2026-11-23",
+   "fp": "höglundagatan 10b|2|7409"
+  },
+  "obo:AN-24981": {
+   "first_seen": "2026-11-23",
+   "fp": "norrbygatan 54|2|8236"
+  },
+  "obo:AN-25000": {
+   "first_seen": "2026-11-23",
+   "fp": "tunnlandsgatan 6c|3|10597"
   }
  },
  "version": 1,
