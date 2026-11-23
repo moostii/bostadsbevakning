@@ -480,6 +480,10 @@
    "first_seen": "2026-11-17",
    "fp": "örnsköldsgatan 147|3|12631"
   },
+  "obo:AN-24204": {
+   "first_seen": "2026-11-23",
+   "fp": "varbergagatan 130|3|10146"
+  },
   "obo:AN-24207": {
    "first_seen": "2026-11-12",
    "fp": "varbergagatan 144|3|9734"
@@ -1000,6 +1004,10 @@
    "first_seen": "2026-11-17",
    "fp": "höglundagatan 20|3|11339"
   },
+  "obo:AN-24823": {
+   "first_seen": "2026-11-23",
+   "fp": "honolulugatan 12|3|11795"
+  },
   "obo:AN-24824": {
    "first_seen": "2026-11-17",
    "fp": "versgatan 4b|2|7330"
@@ -1131,6 +1139,10 @@
   "obo:AN-24908": {
    "first_seen": "2026-11-19",
    "fp": "polhemsgatan 18b|3|9470"
+  },
+  "obo:AN-24909": {
+   "first_seen": "2026-11-23",
+   "fp": "norrbygatan 30|3|9429"
   },
   "obo:AN-24910": {
    "first_seen": "2026-11-19",
