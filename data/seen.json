@@ -100,6 +100,10 @@
    "first_seen": "2026-11-13",
    "fp": "tegnérgatan 23|2|7200"
   },
+  "boio:k-fastigheter:2141-1009": {
+   "first_seen": "2026-11-24",
+   "fp": "charkmästargatan 18|2|10990"
+  },
   "boio:k2a-senior-momentum:7FVJ4Tc4gwGQ4RGxbjjYGcv8": {
    "first_seen": "2026-11-17",
    "fp": "termikgatan 33|2|10041"
@@ -172,6 +176,10 @@
    "first_seen": "2026-11-12",
    "fp": "karlsgatan 4b|2|5325"
   },
+  "boio:ragnfast-momentum:TKKYdGvVrdtdccKy9Xt6Ddc7": {
+   "first_seen": "2026-11-24",
+   "fp": "olaigatan 13a|3|12410"
+  },
   "boio:ragnfast-momentum:cbXxWtr4cVyWTg4JQjQrT4mp": {
    "first_seen": "2026-11-17",
    "fp": "angelgatan 17a|1|6577"
@@ -179,6 +187,10 @@
   "boio:ragnfast-momentum:gMfrfdFy8qWWGjVrvWwpxbVW": {
    "first_seen": "2026-11-12",
    "fp": "karlsgatan 4b|2|5564"
+  },
+  "boio:sbs-student:basilikavagen-12-lgh-1204-2": {
+   "first_seen": "2026-11-24",
+   "fp": "basilikavägen 12|1|6338"
   },
   "boio:soderberg-fastigheter-momentum:GF6MCdFTXDpCQjWTwq7cpFDr": {
    "first_seen": "2026-11-17",
@@ -223,6 +235,10 @@
   "boio:soderberg-fastigheter-momentum:jvjpHh4cvFbfJY7TmC8h6yQQ": {
    "first_seen": "2026-11-17",
    "fp": "faktorigatan 11|3|9113"
+  },
+  "boio:soderberg-fastigheter-momentum:vgVJXKxx7xKxFBJXthcHw7MQ": {
+   "first_seen": "2026-11-24",
+   "fp": "fredsgatan 38|2|5743"
   },
   "boio:soderberg-fastigheter-momentum:y8dd4MXvpqVBDvYqFK9Q869x": {
    "first_seen": "2026-11-17",
@@ -1032,6 +1048,10 @@
    "first_seen": "2026-11-17",
    "fp": "trädgårdsgränd 1b|3|13687"
   },
+  "obo:AN-24837": {
+   "first_seen": "2026-11-24",
+   "fp": "höglundagatan 10b|3|9753"
+  },
   "obo:AN-24840": {
    "first_seen": "2026-11-18",
    "fp": "tunnlandsgatan 20c|3|10665"
@@ -1235,6 +1255,10 @@
   "obo:AN-24959": {
    "first_seen": "2026-11-23",
    "fp": "örnsköldsgatan 53|3|7594"
+  },
+  "obo:AN-24965": {
+   "first_seen": "2026-11-24",
+   "fp": "tunnbindargränd 5|2|8861"
   },
   "obo:AN-24971": {
    "first_seen": "2026-11-23",
