@@ -440,6 +440,10 @@
    "first_seen": "2026-11-16",
    "fp": "askers kyrkväg 3|1|4416"
   },
+  "obo:AN-23841": {
+   "first_seen": "2026-11-24",
+   "fp": "krönikegatan 23b|3|10233"
+  },
   "obo:AN-23857": {
    "first_seen": "2026-11-21",
    "fp": "lyrikgatan 10b|2|8766"
@@ -491,6 +495,10 @@
   "obo:AN-24158": {
    "first_seen": "2026-11-20",
    "fp": "hjalmar bergmans väg 52|3|11527"
+  },
+  "obo:AN-24159": {
+   "first_seen": "2026-11-24",
+   "fp": "hjalmar bergmans väg 52|3|10034"
   },
   "obo:AN-24181": {
    "first_seen": "2026-11-12",
@@ -1295,6 +1303,30 @@
   "obo:AN-25000": {
    "first_seen": "2026-11-23",
    "fp": "tunnlandsgatan 6c|3|10597"
+  },
+  "obo:AN-25012": {
+   "first_seen": "2026-11-24",
+   "fp": "poesigatan 4b|1|6164"
+  },
+  "obo:AN-25013": {
+   "first_seen": "2026-11-24",
+   "fp": "örnsköldsgatan 45|2|6043"
+  },
+  "obo:AN-25015": {
+   "first_seen": "2026-11-24",
+   "fp": "balladgatan 3c|2|6006"
+  },
+  "obo:AN-25031": {
+   "first_seen": "2026-11-24",
+   "fp": "gäddestavägen 4b|3|12683"
+  },
+  "obo:AN-25032": {
+   "first_seen": "2026-11-24",
+   "fp": "majorsgatan 2|3|8666"
+  },
+  "obo:AN-25037": {
+   "first_seen": "2026-11-24",
+   "fp": "varbergagatan 47|3|8627"
   }
  },
  "version": 1,
