@@ -312,6 +312,10 @@
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 40|2|9012"
   },
+  "obo:AN-21823": {
+   "first_seen": "2026-11-25",
+   "fp": "höglundagatan 42|3|10560"
+  },
   "obo:AN-21826": {
    "first_seen": "2026-11-12",
    "fp": "höglundagatan 44|2|9360"
@@ -1403,6 +1407,30 @@
   "obo:AN-25044": {
    "first_seen": "2026-11-25",
    "fp": "visgatan 13b|4|11419"
+  },
+  "obo:AN-25046": {
+   "first_seen": "2026-11-25",
+   "fp": "granrisvägen 34a|3|8552"
+  },
+  "obo:AN-25047": {
+   "first_seen": "2026-11-25",
+   "fp": "örnsköldsgatan 95|3|7149"
+  },
+  "obo:AN-25049": {
+   "first_seen": "2026-11-25",
+   "fp": "åbylundsgatan 2d|4|10424"
+  },
+  "obo:AN-25051": {
+   "first_seen": "2026-11-25",
+   "fp": "restalundsvägen 46|3|11737"
+  },
+  "obo:AN-25052": {
+   "first_seen": "2026-11-25",
+   "fp": "strofgatan 11b|2|6027"
+  },
+  "obo:AN-25065": {
+   "first_seen": "2026-11-25",
+   "fp": "örnsköldsgatan 71|3|7609"
   }
  },
  "version": 1,
