@@ -16,6 +16,10 @@
    "first_seen": "2026-11-17",
    "fp": "björkbacken 1|2|8580"
   },
+  "boio:asplunds-fastigheter-momentum:BvQrDk88bB4bybmMq4gbqvxp": {
+   "first_seen": "2026-11-25",
+   "fp": "drottninggatan 21|2|7809"
+  },
   "boio:asplunds-fastigheter-momentum:FkctT9MQTThmmjyTqJKvTcWp": {
    "first_seen": "2026-11-13",
    "fp": "norrbackavägen 4|2|7994"
@@ -28,6 +32,10 @@
    "first_seen": "2026-11-13",
    "fp": "österängsgatan 12|1|7088"
   },
+  "boio:asplunds-fastigheter-momentum:dfh9GMwxvpCbkDrW8TyCVVHT": {
+   "first_seen": "2026-11-25",
+   "fp": "universitetsgatan 7|3|10151"
+  },
   "boio:asplunds-fastigheter-momentum:jrmQP8KGTdgQhkCwJWYhq9vK": {
    "first_seen": "2026-11-18",
    "fp": "björkbacken 6|2|9897"
@@ -35,6 +43,10 @@
   "boio:asplunds-fastigheter-momentum:kJGxy4qTGkmxbJh8TGGrfwb8": {
    "first_seen": "2026-11-19",
    "fp": "österängsgatan 16|4|14386"
+  },
+  "boio:asplunds-fastigheter-momentum:mJmPDrCkVcvgYKqrKTv6XBqv": {
+   "first_seen": "2026-11-25",
+   "fp": "köpmangatan 13a|3|11627"
   },
   "boio:botrygg-momentum:44kYPHffRmKpQR4vbrG4JgtX": {
    "first_seen": "2026-11-20",
@@ -187,6 +199,10 @@
   "boio:ragnfast-momentum:gMfrfdFy8qWWGjVrvWwpxbVW": {
    "first_seen": "2026-11-12",
    "fp": "karlsgatan 4b|2|5564"
+  },
+  "boio:ragnfast-momentum:tbQdJdwcrCdqRXwp9jXh89rT": {
+   "first_seen": "2026-11-25",
+   "fp": "slottsgatan 12|1|6287"
   },
   "boio:sbs-student:basilikavagen-12-lgh-1204-2": {
    "first_seen": "2026-11-24",
@@ -1088,6 +1104,10 @@
    "first_seen": "2026-11-18",
    "fp": "varbergagatan 129|2|9028"
   },
+  "obo:AN-24846": {
+   "first_seen": "2026-11-25",
+   "fp": "varbergagatan 189|3|10461"
+  },
   "obo:AN-24848": {
    "first_seen": "2026-11-18",
    "fp": "krönikegatan 20a|3|11123"
@@ -1264,6 +1284,10 @@
    "first_seen": "2026-11-20",
    "fp": "spannlandsgatan 5d|4|12370"
   },
+  "obo:AN-24950": {
+   "first_seen": "2026-11-25",
+   "fp": "lyrikgatan 12c|2|8722"
+  },
   "obo:AN-24956": {
    "first_seen": "2026-11-23",
    "fp": "lyrikgatan 11c|5|14624"
@@ -1355,6 +1379,30 @@
   "obo:AN-25037": {
    "first_seen": "2026-11-24",
    "fp": "varbergagatan 47|3|8627"
+  },
+  "obo:AN-25038": {
+   "first_seen": "2026-11-25",
+   "fp": "drottninggatan 52|2|7966"
+  },
+  "obo:AN-25040": {
+   "first_seen": "2026-11-25",
+   "fp": "lars wivallius väg 73|2|6380"
+  },
+  "obo:AN-25041": {
+   "first_seen": "2026-11-25",
+   "fp": "krönikegatan 7b|2|8728"
+  },
+  "obo:AN-25042": {
+   "first_seen": "2026-11-25",
+   "fp": "krönikegatan 19c|4|10785"
+  },
+  "obo:AN-25043": {
+   "first_seen": "2026-11-25",
+   "fp": "lyrikgatan 18d|4|14350"
+  },
+  "obo:AN-25044": {
+   "first_seen": "2026-11-25",
+   "fp": "visgatan 13b|4|11419"
   }
  },
  "version": 1,
