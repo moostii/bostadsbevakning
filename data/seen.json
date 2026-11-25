@@ -396,6 +396,10 @@
    "first_seen": "2026-11-12",
    "fp": "lertagsgatan 61|2|7930"
   },
+  "obo:AN-23541": {
+   "first_seen": "2026-11-25",
+   "fp": "lertagsgatan 58|3|11767"
+  },
   "obo:AN-23576": {
    "first_seen": "2026-11-23",
    "fp": "höglundagatan 48|3|10816"
@@ -423,6 +427,10 @@
   "obo:AN-23735": {
    "first_seen": "2026-11-12",
    "fp": "hjalmar bergmans väg 52|2|8457"
+  },
+  "obo:AN-23821": {
+   "first_seen": "2026-11-25",
+   "fp": "lyrikgatan 11a|4|10841"
   },
   "obo:AN-23828": {
    "first_seen": "2026-11-15",
@@ -1312,9 +1320,29 @@
    "first_seen": "2026-11-24",
    "fp": "örnsköldsgatan 45|2|6043"
   },
+  "obo:AN-25014": {
+   "first_seen": "2026-11-25",
+   "fp": "stånggatan 2d|3|10882"
+  },
   "obo:AN-25015": {
    "first_seen": "2026-11-24",
    "fp": "balladgatan 3c|2|6006"
+  },
+  "obo:AN-25016": {
+   "first_seen": "2026-11-25",
+   "fp": "stånggatan 6c|3|11600"
+  },
+  "obo:AN-25017": {
+   "first_seen": "2026-11-25",
+   "fp": "stånggatan 6d|3|10882"
+  },
+  "obo:AN-25019": {
+   "first_seen": "2026-11-25",
+   "fp": "varbergagatan 106|3|9398"
+  },
+  "obo:AN-25025": {
+   "first_seen": "2026-11-25",
+   "fp": "karlslundsgatan 3|2|8766"
   },
   "obo:AN-25031": {
    "first_seen": "2026-11-24",
