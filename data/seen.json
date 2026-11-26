@@ -32,6 +32,10 @@
    "first_seen": "2026-11-13",
    "fp": "österängsgatan 12|1|7088"
   },
+  "boio:asplunds-fastigheter-momentum:TdcWVRtHwWvRW7MRV6fmrmPd": {
+   "first_seen": "2026-11-26",
+   "fp": "järnvägsgatan 17|4|13322"
+  },
   "boio:asplunds-fastigheter-momentum:dfh9GMwxvpCbkDrW8TyCVVHT": {
    "first_seen": "2026-11-25",
    "fp": "universitetsgatan 7|3|10151"
@@ -59,6 +63,10 @@
   "boio:botrygg-momentum:jpFctqbvYmbRdyQJttHfCQcJ": {
    "first_seen": "2026-11-13",
    "fp": "karlsdalsallén 23c|2|9010"
+  },
+  "boio:botrygg-momentum:rBGR9f6jKDYrmDBqMpq8RrBb": {
+   "first_seen": "2026-11-26",
+   "fp": "karlsdalsallén 56d|3|11966"
   },
   "boio:botrygg-momentum:td7rVpbXVmVXpB7yrgdjwTjP": {
    "first_seen": "2026-11-12",
@@ -200,6 +208,10 @@
    "first_seen": "2026-11-12",
    "fp": "karlsgatan 4b|2|5564"
   },
+  "boio:ragnfast-momentum:mTFrvyvtfxrmR9fYJ86QQppr": {
+   "first_seen": "2026-11-26",
+   "fp": "hjortstorpsvägen 25|2|9687"
+  },
   "boio:ragnfast-momentum:tbQdJdwcrCdqRXwp9jXh89rT": {
    "first_seen": "2026-11-25",
    "fp": "slottsgatan 12|1|6287"
@@ -251,6 +263,10 @@
   "boio:soderberg-fastigheter-momentum:jvjpHh4cvFbfJY7TmC8h6yQQ": {
    "first_seen": "2026-11-17",
    "fp": "faktorigatan 11|3|9113"
+  },
+  "boio:soderberg-fastigheter-momentum:r6CwdjbVPRgkDVymkJf8QH4R": {
+   "first_seen": "2026-11-26",
+   "fp": "faktorigatan 11|3|9172"
   },
   "boio:soderberg-fastigheter-momentum:vgVJXKxx7xKxFBJXthcHw7MQ": {
    "first_seen": "2026-11-24",
@@ -1188,6 +1204,10 @@
    "first_seen": "2026-11-26",
    "fp": "strofgatan 19c|2|6806"
   },
+  "obo:AN-24883": {
+   "first_seen": "2026-11-26",
+   "fp": "versgatan 4b|2|8567"
+  },
   "obo:AN-24885": {
    "first_seen": "2026-11-21",
    "fp": "strofgatan 19c|2|6150"
@@ -1439,6 +1459,22 @@
   "obo:AN-25065": {
    "first_seen": "2026-11-25",
    "fp": "örnsköldsgatan 71|3|7609"
+  },
+  "obo:AN-25068": {
+   "first_seen": "2026-11-26",
+   "fp": "lertagsgatan 56|2|10406"
+  },
+  "obo:AN-25069": {
+   "first_seen": "2026-11-26",
+   "fp": "vivallaringen 2d|2|6618"
+  },
+  "obo:AN-25070": {
+   "first_seen": "2026-11-26",
+   "fp": "västra vintergatan 148|2|7585"
+  },
+  "obo:AN-25071": {
+   "first_seen": "2026-11-26",
+   "fp": "östra vintergatan 92|1|4276"
   }
  },
  "version": 1,
