@@ -452,6 +452,10 @@
    "first_seen": "2026-11-16",
    "fp": "varbergagatan 35|2|8801"
   },
+  "obo:AN-23631": {
+   "first_seen": "2026-11-26",
+   "fp": "versgatan 24d|2|7978"
+  },
   "obo:AN-23682": {
    "first_seen": "2026-11-12",
    "fp": "lertagsgatan 58|2|9989"
@@ -1475,6 +1479,14 @@
   "obo:AN-25071": {
    "first_seen": "2026-11-26",
    "fp": "östra vintergatan 92|1|4276"
+  },
+  "obo:AN-25076": {
+   "first_seen": "2026-11-26",
+   "fp": "varbergagatan 177|3|9062"
+  },
+  "obo:AN-25084": {
+   "first_seen": "2026-11-26",
+   "fp": "östra vintergatan 48|3|9492"
   }
  },
  "version": 1,
