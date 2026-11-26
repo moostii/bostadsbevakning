@@ -1184,6 +1184,10 @@
    "first_seen": "2026-11-22",
    "fp": "balladgatan 19a|2|6064"
   },
+  "obo:AN-24882": {
+   "first_seen": "2026-11-26",
+   "fp": "strofgatan 19c|2|6806"
+  },
   "obo:AN-24885": {
    "first_seen": "2026-11-21",
    "fp": "strofgatan 19c|2|6150"
@@ -1415,6 +1419,10 @@
   "obo:AN-25047": {
    "first_seen": "2026-11-25",
    "fp": "örnsköldsgatan 95|3|7149"
+  },
+  "obo:AN-25048": {
+   "first_seen": "2026-11-26",
+   "fp": "enrisvägen 4|2|6810"
   },
   "obo:AN-25049": {
    "first_seen": "2026-11-25",
