@@ -516,6 +516,10 @@
    "first_seen": "2026-11-23",
    "fp": "lyrikgatan 1b|2|8684"
   },
+  "obo:AN-23859": {
+   "first_seen": "2026-11-27",
+   "fp": "lyrikgatan 17a|3|10346"
+  },
   "obo:AN-23913": {
    "first_seen": "2026-11-20",
    "fp": "versgatan 10c|2|7498"
@@ -1531,6 +1535,10 @@
   "obo:AN-25116": {
    "first_seen": "2026-11-27",
    "fp": "västra vintergatan 39|1|4509"
+  },
+  "obo:AN-25118": {
+   "first_seen": "2026-11-27",
+   "fp": "varbergagatan 106|2|8907"
   }
  },
  "version": 1,
