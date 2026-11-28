@@ -104,6 +104,10 @@
    "first_seen": "2026-11-19",
    "fp": "pålsbodagatan 23|3|13085"
   },
+  "boio:finfast-momentum:cpr4q9cGq4BDkKTQyTCykK46": {
+   "first_seen": "2026-11-28",
+   "fp": "landbotorpsallén 27d|1|7898"
+  },
   "boio:finfast-momentum:r4wdbcFBxQkmhYQPb4VcFGWf": {
    "first_seen": "2026-11-19",
    "fp": "pålsbodagatan 29|2|8540"
@@ -1139,6 +1143,10 @@
   "obo:AN-24840": {
    "first_seen": "2026-11-18",
    "fp": "tunnlandsgatan 20c|3|10665"
+  },
+  "obo:AN-24841": {
+   "first_seen": "2026-11-28",
+   "fp": "varbergagatan 68|2|8077"
   },
   "obo:AN-24842": {
    "first_seen": "2026-11-18",
